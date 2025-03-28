@@ -1,4 +1,4 @@
-module aisco.product.sumbangantransferbank {
+module aisco.product.sumbangancredit {
     requires aisco.program.core;
     requires aisco.program.operational;
     requires aisco.financialreport.core;

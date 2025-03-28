@@ -1,4 +1,4 @@
-package aisco.product.sumbangantransferbank;
+package aisco.product.sumbangancredit;
 
 import aisco.program.ProgramFactory;
 import aisco.program.core.Program;
@@ -7,7 +7,7 @@ import aisco.financialreport.core.FinancialReport;
 import aisco.donation.DonationFactory;
 import aisco.donation.core.Donation;
 
-public class SumbanganTransferBank {
+public class SumbanganCredit {
 	private static Program operationalProgram;
 	private static FinancialReport financialreportFinancialReport;
 	private static FinancialReport incomeFinancialReport;
