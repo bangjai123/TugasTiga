@@ -20,8 +20,7 @@ features
 				alternative
 					DirectPayment
 					PaymentGateway
-						or
-							EWallet
-							TransferBank
-							Credit
+					EWallet
+					TransferBank
+					Credit
 

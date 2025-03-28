@@ -1,6 +1,6 @@
-package aisco.donation.pgateway.credit;
+package aisco.donation.credit;
 
-import aisco.donation.pgateway.DonationComponent;
+import aisco.donation.core.DonationComponent;
 import java.util.ArrayList;
 import java.util.List;
 

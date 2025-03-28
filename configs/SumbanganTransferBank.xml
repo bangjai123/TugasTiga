@@ -11,8 +11,8 @@
 	<feature manual="selected" name="Expense"/>
 	<feature automatic="selected" manual="selected" name="Donation"/>
 	<feature automatic="unselected" name="DirectPayment"/>
-	<feature automatic="selected" name="PaymentGateway"/>
-	<feature name="EWallet"/>
+	<feature automatic="unselected" name="PaymentGateway"/>
+	<feature automatic="unselected" name="EWallet"/>
 	<feature manual="selected" name="TransferBank"/>
-	<feature name="Credit"/>
+	<feature automatic="unselected" name="Credit"/>
 </configuration>

@@ -5,5 +5,4 @@ module aisco.product.sumbangantransferbank {
     requires aisco.financialreport.income;
     requires aisco.financialreport.expense;
     requires aisco.donation.core;
-    requires aisco.donation.pgateway;
 }

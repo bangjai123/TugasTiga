@@ -1,8 +1,6 @@
-package aisco.donation.pgateway.ewallet;
+package aisco.donation.ewallet;
 
-import aisco.donation.pgateway.DonationComponent;
-import java.util.ArrayList;
-import java.util.List;
+import aisco.donation.core.DonationComponent;
 
 public class DonationImpl extends DonationComponent {
     private String vendorName;

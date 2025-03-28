@@ -13,7 +13,6 @@ public class SumbanganTransferBank {
 	private static FinancialReport incomeFinancialReport;
 	private static FinancialReport expenseFinancialReport;
 	private static Donation donationDonation;
-	private static Donation pgatewayDonation;
 
     public static void main(String[] args) {    	
         // TODO: Create necessary feature objects for the program
