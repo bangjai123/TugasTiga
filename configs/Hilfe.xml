@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature automatic="selected" name="AISCO"/>
+	<feature automatic="selected" name="Program"/>
+	<feature name="Activity"/>
+	<feature name="Zakat"/>
+	<feature name="Sumbangan"/>
+	<feature manual="selected" name="Operational"/>
+	<feature automatic="selected" name="FinancialReport"/>
+	<feature automatic="selected" name="Income"/>
+	<feature name="Expense"/>
+	<feature name="Donation"/>
+	<feature name="DirectPayment"/>
+	<feature name="PaymentGateway"/>
+	<feature name="EWallet"/>
+	<feature name="TransferBank"/>
+	<feature name="Credit"/>
+</configuration>
